@@ -36,6 +36,8 @@ I use GitHub to document what I'm learning, share projects, and build a practica
 - 🔐 **[Cybersecurity Notes](https://github.com/Xayexe/cyber-notes)** — Networking, ports and protocols, security concerns, and Blue Team study references.
 - 🐍 **[Password Security Analyzer](https://github.com/Xayexe/password-security-analyzer)** — Python command-line project with password checks, security feedback, and unit tests.
 
+- 🚗 **[Python Car Rental System](https://github.com/Xayexe/python-car-rental-system)** — A simple rental menu I built to practice dictionaries, functions, loops, and user input.
+
 More projects and hands-on lab documentation will be added as I develop and organize them.
 
 ## 🎯 Career Interests
