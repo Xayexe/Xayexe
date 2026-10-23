@@ -34,6 +34,7 @@ I use GitHub to document what I'm learning, share projects, and build a practica
 ## 📂 Featured Work
 
 - 🔐 **[Cybersecurity Notes](https://github.com/Xayexe/cyber-notes)** — Networking, ports and protocols, security concerns, and Blue Team study references.
+- 🐍 **[Password Security Analyzer](https://github.com/Xayexe/password-security-analyzer)** — Python command-line project with password checks, security feedback, and unit tests.
 
 More projects and hands-on lab documentation will be added as I develop and organize them.
 
