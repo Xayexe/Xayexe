@@ -38,6 +38,8 @@ I use GitHub to document what I'm learning, share projects, and build a practica
 
 - 🚗 **[Python Car Rental System](https://github.com/Xayexe/python-car-rental-system)** — A simple rental menu I built to practice dictionaries, functions, loops, and user input.
 
+- 🚘 **[DMV License Application System](https://github.com/Xayexe/python-dmv-license-application)** — A Python practice project I made to work with input validation, functions, dictionaries, and saving data to a file.
+
 More projects and hands-on lab documentation will be added as I develop and organize them.
 
 ## 🎯 Career Interests
