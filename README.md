@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm X'Zevious Broadus 👋
 
-<!--
-**Xayexe/Xayexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Aspiring Cyber Risk & Blue Team Professional
 
-Here are some ideas to get you started:
+I'm pursuing a **B.S. in Cybersecurity at the University at Albany (SUNY)**, with an expected graduation in **Fall 2027**. I'm interested in cyber defense, risk analysis, financial crime prevention, and the ways technology and data can help organizations make better security decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to document what I'm learning, share projects, and build a practical portfolio as I grow in the field.
+
+## 💼 Experience
+
+**Financial Crimes Compliance Intern — Pioneer Bank (Summer 2026)**
+- Supported customer due diligence (CDD), enhanced due diligence (EDD), and data reconciliation.
+- Analyzed financial information and transactions using internal systems and Excel.
+- Documented findings and supported compliance-related reviews.
+- Gained experience handling sensitive information with accuracy and confidentiality.
+
+**Shift Manager — McDonald's**
+- Lead daily operations, troubleshoot issues, and support team members in a fast-paced environment.
+
+## 🛠️ Skills & Tools
+
+- **Cybersecurity:** Risk assessment, NIST Cybersecurity Framework, access control, networking fundamentals, and introductory threat analysis
+- **Programming & Data:** Python, SQL (learning), HTML, CSS, JavaScript, and basic Java
+- **Tools & Platforms:** Excel, Nmap, Wireshark, Ubuntu, VirtualBox, and Active Directory
+- **Professional:** Documentation, research, data reconciliation, problem-solving, and communication
+
+## 📚 Currently Learning
+
+- Network security and defensive security concepts
+- Databases and SQL
+- Cloud security and secure operating systems
+- Threat detection, log analysis, and practical cybersecurity workflows
+
+## 📂 Featured Work
+
+- 🔐 **[Cybersecurity Notes](https://github.com/Xayexe/cyber-notes)** — Networking, ports and protocols, security concerns, and Blue Team study references.
+
+More projects and hands-on lab documentation will be added as I develop and organize them.
+
+## 🎯 Career Interests
+
+I'm seeking opportunities to develop my skills in **cybersecurity, cyber risk, security operations, compliance, and data analytics**.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/xzevious-broadus-it](https://www.linkedin.com/in/xzevious-broadus-it)
