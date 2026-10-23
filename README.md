@@ -1,51 +1,41 @@
-# Hi, I'm X'Zevious Broadus 👋
+# Hey, I'm X'Zevious 👋
 
-### Cybersecurity Student | Aspiring Cyber Risk & Blue Team Professional
+I'm a Cybersecurity student at the University at Albany, working toward my bachelor's degree with an expected graduation in Fall 2027.
 
-I'm pursuing a **B.S. in Cybersecurity at the University at Albany (SUNY)**, with an expected graduation in **Fall 2027**. I'm interested in cyber defense, risk analysis, financial crime prevention, and the ways technology and data can help organizations make better security decisions.
+I'm interested in cyber risk, financial crimes, and defensive security. I like learning how systems work, understanding where risks come from, and figuring out ways to protect information.
 
-I use GitHub to document what I'm learning, share projects, and build a practical portfolio as I grow in the field.
+I made this GitHub to keep track of the work I've done, what I've learned, and the projects I've worked on over time. Some of these are older projects from when I was first learning programming, and others are notes or exercises from my cybersecurity courses. I'm still learning, and I want to be able to look back and see how much I've improved.
 
-## 💼 Experience
+## A little about my experience
 
-**Financial Crimes Compliance Intern — Pioneer Bank (Summer 2026)**
-- Supported customer due diligence (CDD), enhanced due diligence (EDD), and data reconciliation.
-- Analyzed financial information and transactions using internal systems and Excel.
-- Documented findings and supported compliance-related reviews.
-- Gained experience handling sensitive information with accuracy and confidentiality.
+In Summer 2026, I interned at **Pioneer Bank** in Financial Crimes Compliance. I worked with customer due diligence, data reconciliation, transaction information, and documentation. That experience got me more interested in the connection between cybersecurity, financial crime, and risk.
 
-**Shift Manager — McDonald's**
-- Lead daily operations, troubleshoot issues, and support team members in a fast-paced environment.
+I also work as a shift manager at McDonald's, where I've learned a lot about leading a team, handling problems, and staying organized.
 
-## 🛠️ Skills & Tools
+## What I've worked with
 
-- **Cybersecurity:** Risk assessment, NIST Cybersecurity Framework, access control, networking fundamentals, and introductory threat analysis
-- **Programming & Data:** Python, SQL (learning), HTML, CSS, JavaScript, and basic Java
-- **Tools & Platforms:** Excel, Nmap, Wireshark, Ubuntu, VirtualBox, and Active Directory
-- **Professional:** Documentation, research, data reconciliation, problem-solving, and communication
+- **Programming:** Python, HTML, CSS, JavaScript, and some Java
+- **Data:** Excel, databases, and SQL (still learning)
+- **Cybersecurity:** Risk assessments, networking, access control, and security fundamentals
+- **Tools:** Nmap, Wireshark, Ubuntu, VirtualBox, and Active Directory
 
-## 📚 Currently Learning
+## My projects and notes
 
-- Network security and defensive security concepts
-- Databases and SQL
-- Cloud security and secure operating systems
-- Threat detection, log analysis, and practical cybersecurity workflows
+These are projects I've worked on or documented as part of learning. The older dates below come from the last-modified timestamps on my saved files, not necessarily the exact dates I first started them.
 
-## 📂 Featured Work
+| Project | What it is | Date |
+| --- | --- | --- |
+| [DMV License Application](https://github.com/Xayexe/python-dmv-license-application) | A Python program I made to practice collecting information, checking inputs, using functions, and saving data to a file | Last modified Oct. 3, 2025 |
+| [Car Rental System](https://github.com/Xayexe/python-car-rental-system) | A Python program for renting and returning cars, with a menu and basic cost calculations | Last modified Nov. 18, 2025 |
+| [Cybersecurity Notes](https://github.com/Xayexe/cyber-notes) | Notes on networking, ports, protocols, and Blue Team concepts | Ongoing |
+| [Password Security Analyzer](https://github.com/Xayexe/password-security-analyzer) | An AI-assisted Python learning example that checks password patterns and gives basic feedback | Added Oct. 2026 |
 
-- 🔐 **[Cybersecurity Notes](https://github.com/Xayexe/cyber-notes)** — Networking, ports and protocols, security concerns, and Blue Team study references.
-- 🐍 **[Password Security Analyzer](https://github.com/Xayexe/password-security-analyzer)** — Python command-line project with password checks, security feedback, and unit tests.
+I'm planning to add more of my older Python projects, cybersecurity labs, and coursework as I get them organized.
 
-- 🚗 **[Python Car Rental System](https://github.com/Xayexe/python-car-rental-system)** — A simple rental menu I built to practice dictionaries, functions, loops, and user input.
+## What I'm focusing on now
 
-- 🚘 **[DMV License Application System](https://github.com/Xayexe/python-dmv-license-application)** — A Python practice project I made to work with input validation, functions, dictionaries, and saving data to a file.
+Right now, I'm continuing to build my knowledge in cybersecurity, especially cyber risk, Blue Team concepts, databases, cloud security, and network security. I'm also working toward getting more hands-on experience through internships and projects.
 
-More projects and hands-on lab documentation will be added as I develop and organize them.
+## Connect with me
 
-## 🎯 Career Interests
-
-I'm seeking opportunities to develop my skills in **cybersecurity, cyber risk, security operations, compliance, and data analytics**.
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/xzevious-broadus-it](https://www.linkedin.com/in/xzevious-broadus-it)
+[LinkedIn](https://www.linkedin.com/in/xzevious-broadus-it)
